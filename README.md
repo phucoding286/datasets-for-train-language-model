@@ -6,3 +6,4 @@
 2. https://sachhay24h.com/ (Thư viện sách đa dạng)
 3. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
 4. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
+5. https://docln.net/ (Trang web đọc truyện Light Novel)

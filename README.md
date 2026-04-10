@@ -7,3 +7,4 @@
 3. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
 4. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
 5. https://docln.net/ (Trang web đọc truyện Light Novel)
+6. https://yukiln.com/ (Light Novel nhật bản)

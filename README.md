@@ -5,3 +5,4 @@
 1. https://www.sachhayonline.com/ (Thư viện sách về đa dạng chủ đề, lĩnh vực) (Tri thức nền lớn nhất)
 2. https://sachhay24h.com/ (Thư viện sách đa dạng)
 3. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
+4. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)

@@ -7,7 +7,10 @@
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
 3. https://sachhay24h.com/ (Thư viện sách đa dạng)
-4. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
-5. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
-6. https://docln.net/ (Trang web đọc truyện Light Novel)
-7. https://yukiln.com/ (Light Novel nhật bản)
+   - 🛠 Tool crawl: https://github.com/phucoding286/sachhay24h.com-crawler
+   - 📊 Các parts dữ liệu.
+     - Hiện chưa có dữ liệu nào.
+5. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
+6. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
+7. https://docln.net/ (Trang web đọc truyện Light Novel)
+8. https://yukiln.com/ (Light Novel nhật bản)

@@ -11,6 +11,9 @@
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
 5. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
-6. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
-7. https://docln.net/ (Trang web đọc truyện Light Novel)
-8. https://yukiln.com/ (Light Novel nhật bản)
+   - 🛠 [Tool crawl](https://github.com/phucoding286/vnexpress.net-crawler) (Created by Phu)
+   - 📊 Các parts dữ liệu.
+     - Hiện chưa có dữ liệu nào.
+7. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
+8. https://docln.net/ (Trang web đọc truyện Light Novel)
+9. https://yukiln.com/ (Light Novel nhật bản)

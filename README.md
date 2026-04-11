@@ -3,7 +3,7 @@
 ---
 ### Danh mục các trang web crawl kiến thức dành cho language model.
 1. https://www.sachhayonline.com/ (Thư viện sách về đa dạng chủ đề, lĩnh vực) (Tri thức nền lớn nhất)
-   🛠 Tool crawl: https://github.com/phucoding286/sachhayonline.com-crawler
+   - 🛠 Tool crawl: https://github.com/phucoding286/sachhayonline.com-crawler
 3. https://sachhay24h.com/ (Thư viện sách đa dạng)
 4. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
 5. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)

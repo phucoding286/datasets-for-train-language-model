@@ -6,19 +6,15 @@
    - 🛠 [Tool crawl](https://github.com/phucoding286/sachhayonline.com-crawler) (Created by Phu)
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
-3. https://sachhay24h.com/ (Thư viện sách đa dạng)
-   - 🛠 [Tool crawl](https://github.com/phucoding286/sachhay24h.com-crawler) (Created by Phu)
-   - 📊 Các parts dữ liệu.
-     - Hiện chưa có dữ liệu nào.
-5. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
+2. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
    - 🛠 [Tool crawl](https://github.com/phucoding286/vnexpress.net-crawler) (Created by Phu)
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
-7. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
+3. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
    - 🛠 [Tool crawl](https://github.com/phucoding286/24h.com-crawler) (Created by Phu)
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
-9. https://valvrareteam.net/ (Trang web đọc truyện Light Novel)
+4. https://valvrareteam.net/ (Trang web đọc truyện Light Novel)
    - 🛠 [Tool crawl](https://github.com/phucoding286/valvrareteam.net-crawler) (Created by Phu)
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.

@@ -14,7 +14,3 @@
    - 🛠 [Tool crawl](https://github.com/phucoding286/24h.com-crawler) (Created by Phu)
    - 📊 Các parts dữ liệu.
      - Hiện chưa có dữ liệu nào.
-4. https://valvrareteam.net/ (Trang web đọc truyện Light Novel)
-   - 🛠 [Tool crawl](https://github.com/phucoding286/valvrareteam.net-crawler) (Created by Phu)
-   - 📊 Các parts dữ liệu.
-     - Hiện chưa có dữ liệu nào.

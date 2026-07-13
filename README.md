@@ -3,16 +3,4 @@
 ---
 ### Danh mục các trang web crawl kiến thức dành cho language model.
 1. PATCH-1
-   - Sources: [```sachhayonline.com```](https://github.com/phucoding286/sachhayonline.com-crawler)
-1. https://www.sachhayonline.com/ (Thư viện sách về đa dạng chủ đề, lĩnh vực) (Tri thức nền lớn nhất)
-   - 🛠 [Tool crawl](https://github.com/phucoding286/sachhayonline.com-crawler) (Created by Phu)
-   - 📊 Các parts dữ liệu.
-     - Hiện chưa có dữ liệu nào.
-2. https://vnexpress.net/ (Trang báo lớn nhất việt nam)
-   - 🛠 [Tool crawl](https://github.com/phucoding286/vnexpress.net-crawler) (Created by Phu)
-   - 📊 Các parts dữ liệu.
-     - Hiện chưa có dữ liệu nào.
-3. https://www.24h.com.vn/ (Trang báo tổng hợp đa dạng)
-   - 🛠 [Tool crawl](https://github.com/phucoding286/24h.com-crawler) (Created by Phu)
-   - 📊 Các parts dữ liệu.
-     - Hiện chưa có dữ liệu nào.
+   - Sources [```sachhayonline.com```](https://github.com/phucoding286/sachhayonline.com-crawler) [```vnexpress.net```](https://github.com/phucoding286/vnexpress.net-crawler) [```24h.com.vn```](https://github.com/phucoding286/24h.com-crawler)

@@ -11,6 +11,3 @@
 3. 24h.
    - Source [```24h.com.vn```](https://github.com/phucoding286/24h.com-crawler)
    - Data ```Chưa có dữ liệu```
-4. truyenchu.top.
-   - Source [```truyenchu.top```](https://github.com/phucoding286/truyenchu.top-crawler)
-   - Data ```Chưa có dữ liệu```

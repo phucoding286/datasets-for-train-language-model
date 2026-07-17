@@ -4,10 +4,10 @@
 ### Danh mục các trang web crawl kiến thức dành cho language model.
 1. sachhayonline.
    - Source [```sachhayonline.com```](https://github.com/phucoding286/sachhayonline.com-crawler)
-   - Data ```Chưa có dữ liệu```
+   - Data [```Nguồn data, 19280 samples, 508 MB```](https://drive.google.com/file/d/1O9yAwa4lAchYttZudgp0GXGB9b0m5eyF/view?usp=sharing)
 2. vnexpress.
    - Source [```vnexpress.net```](https://github.com/phucoding286/vnexpress.net-crawler)
-   - Data ```Chưa có dữ liệu```
+   - Data [```Nguồn data, 30233 samples, 179.2MB```](https://drive.google.com/file/d/1VI0XXZ7tV9YGIRMsHJ136fC_nbZVhYDa/view?usp=sharing)
 3. 24h.
    - Source [```24h.com.vn```](https://github.com/phucoding286/24h.com-crawler)
-   - Data ```Chưa có dữ liệu```
+   - Data [```Nguồn data,  samples, 269.1 MB```](https://drive.google.com/file/d/1wKi-z0LiT3QjKrjSxSBqRQqbq4val0hE/view?usp=sharing)

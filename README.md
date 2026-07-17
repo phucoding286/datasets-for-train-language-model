@@ -11,3 +11,6 @@
 3. 24h.
    - Source [```24h.com.vn```](https://github.com/phucoding286/24h.com-crawler)
    - Data [```Nguồn data,  samples, 269.1 MB```](https://drive.google.com/file/d/1wKi-z0LiT3QjKrjSxSBqRQqbq4val0hE/view?usp=sharing)
+4. tinhte.
+   - Source [```tinhte.vn```](https://github.com/phucoding286/tinhte.vn-crawler)
+   - Data ```Chưa có data```
